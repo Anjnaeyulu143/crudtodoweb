@@ -1,0 +1,22 @@
+.title_container {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: white;
+  backdrop-filter: blur(5px);
+  box-shadow: rgba(231, 221, 221, 0.3);
+}
+
+.blogdetail__discription {
+  min-height: 0vw;
+  font-size: clamp(1rem, 1.5vw, 1.75rem);
+}
+
+.blogdetails__info > p {
+  min-height: 0vw;
+  font-size: 1rem, 1.5vw, 1.5rem;
+}
+
+.blogdetails__title {
+  min-height: 0vw;
+  font-size: clamp(1.75rem, 1.75vw, 2rem);
+}
